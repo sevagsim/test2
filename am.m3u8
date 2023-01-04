@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 
-#EXTINF:-1 tvg-id="H1" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",H1
+#EXTINF:-1 tvg-id="H1" status="timeout" tvg-logo="https://i.ibb.co/7NbwNZh/SGN-12-18-2021-1639835945728.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",H1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/index.m3u8
 
@@ -15,6 +15,30 @@ https://us1.ottstream.live:17071/C279/tracks-v3a1/index.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-id="ARTN" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",ARTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="H1 Lurer" tvg-logo="https://i.ibb.co/7NbwNZh/SGN-12-18-2021-1639835945728.png",H1 Lurer
+https://amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Noor tv USA" tvg-logo="https://i.ibb.co/Tmw7Kgm/SGN-12-18-2021-1639838992456.png",Noor tv USA
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="TBN Armenia" tvg-logo="https://i.ibb.co/wJwsWjD/SGN-04-03-2022-1648993227609.png",TBN Armenia
+https://cdn.bog.tv/hls/user63518_tbnarmenia/index.m3u8
+
+#EXTINF:-1 tvg-id="Luys" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amga TV" tvg-logo="https://i.imgur.com/3vQVwUV.jpg",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Horizon Armenian" tvg-logo="https://i.imgur.com/GVUIJiD.png",Horizon Armenian
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+
+#EXTINF:-1 tvg-id="H1 International" tvg-logo="",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio Van 103.0 FM Yerevan" tvg-logo="",Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="21TV.am" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",21TV (480p)
